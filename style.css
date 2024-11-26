@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    float: left;
+    background-color:rgba(255, 55, 0, 0.957);
+    margin: 10px;
+    font-size: 75px;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    padding: 15px;
+    height: 100px;
+    width: 100px;
+    transition: 0.5s;
+    box-shadow: 7px 7px rgba(0, 0, 0, 0.598);
+}
+div:hover  {
+    background-color: rgba(253, 219, 69, 0.9);
+
+}
